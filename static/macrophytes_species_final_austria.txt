@@ -1,0 +1,97 @@
+Alisma gramineum
+Alisma lanceolatum
+Alisma plantago-aquatica s.str.
+Caldesia parnassifolia
+Callitriche cophocarpa
+Callitriche hamulata
+Callitriche obtusangula
+Callitriche palustris s.str.
+Callitriche platycarpa
+Callitriche stagnalis
+Ceratophyllum demersum
+Ceratophyllum submersum
+Elodea canadensis
+Elodea nuttallii
+Groenlandia densa
+Hippuris vulgaris
+Hydrocharis morsus-ranae
+Lemna gibba
+Lemna minor
+Lemna minuta
+Lemna trisulca
+Lemna turionifera
+Menyanthes trifoliata
+Myriophyllum alterniflorum
+Myriophyllum aquaticum
+Myriophyllum heterophyllum
+Myriophyllum spicatum
+Myriophyllum verticillatum
+Najas flexilis
+Najas major
+Najas marina agg.
+Najas marina s.str.
+Najas minor
+Nuphar advena
+Nuphar lutea
+Nuphar pumila
+Nymphaea alba
+Nymphaea candida
+Nymphoides peltata
+Potamogeton acutifolius
+Potamogeton alpinus
+Potamogeton berchtoldii
+Potamogeton coloratus
+Potamogeton compressus
+Potamogeton crispus
+Potamogeton friesii
+Potamogeton gramineus
+Potamogeton lucens
+Potamogeton natans
+Potamogeton nodosus
+Potamogeton obtusifolius
+Potamogeton perfoliatus
+Potamogeton polygonifolius
+Potamogeton praelongus
+Potamogeton pusillus s.str.
+Potamogeton trichoides
+Ranunculus aquatilis s.str.
+Ranunculus baudotii
+Ranunculus circinatus
+Ranunculus confervoides
+Ranunculus fluitans
+Ranunculus peltatus
+Ranunculus penicillatus s.str.
+Ranunculus pseudofluitans
+Ranunculus rionii
+Ranunculus sceleratus
+Ranunculus trichophyllus s.strictiore
+Sagittaria sagittifolia
+Sparganium angustifolium
+Sparganium emersum
+Sparganium erectum
+Sparganium erectum subsp.  microcarpum
+Sparganium erectum subsp. erectum
+Sparganium erectum subsp. neglectum
+Sparganium erectum subsp. oocarpum
+Sparganium natans
+Spirodela polyrhiza
+Stratiotes aloides
+Stuckenia filiformis
+Stuckenia pectinata
+Typha angustifolia
+Typha latifolia
+Typha laxmannii
+Typha minima
+Typha shuttleworthii
+Utricularia australis
+Utricularia bremii
+Utricularia intermedia agg.
+Utricularia intermedia s.str.
+Utricularia minor s.str.
+Utricularia ochroleuca
+Utricularia stygia
+Utricularia vulgaris s.str.
+Vallisneria spiralis
+Wolffia arrhiza
+Zannichellia palustris subsp. palustris
+Zannichellia palustris subsp. pedicellata

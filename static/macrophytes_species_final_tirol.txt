@@ -1,0 +1,67 @@
+Alisma lanceolatum
+Alisma plantago-aquatica s. str.
+Callitriche cophocarpa
+Callitriche hamulata
+Callitriche obtusangula
+Callitriche palustris s. str.
+Callitriche platycarpa
+Ceratophyllum demersum
+Elodea canadensis
+Elodea nuttallii
+Groenlandia densa
+Hippuris vulgaris
+Hydrocharis morsus-ranae
+Lemna minor
+Lemna trisulca
+Menyanthes trifoliata
+Myriophyllum spicatum
+Myriophyllum verticillatum
+Najas marina s. str.
+Najas minor
+Nuphar lutea
+Nuphar pumila
+Nymphaea alba
+Nymphaea candida
+Nymphoides peltata
+Potamogeton alpinus
+Potamogeton berchtoldii
+Potamogeton crispus
+Potamogeton gramineus
+Potamogeton lucens
+Potamogeton natans
+Potamogeton nodosus
+Potamogeton perfoliatus
+Potamogeton praelongus
+Potamogeton pusillus s. str.
+Potamogeton trichoides
+Potamogeton × angustifolius
+Potamogeton × nitens
+Ranunculus aquatilis
+Ranunculus circinatus
+Ranunculus confervoides
+Ranunculus penicillatus s. str.
+Ranunculus rionii
+Ranunculus sceleratus
+Ranunculus trichophyllus
+Sagittaria latifolia
+Sagittaria sagittifolia
+Sparganium angustifolium
+Sparganium emersum
+Sparganium erectum subsp. erectum
+Sparganium erectum subsp. microcarpum
+Sparganium erectum subsp. neglectum
+Sparganium natans
+Spirodela polyrhiza
+Stratiotes aloides
+Stuckenia filiformis
+Stuckenia pectinata
+Typha angustifolia
+Typha latifolia
+Typha minima s. str.
+Typha shuttleworthii
+Utricularia australis
+Utricularia intermedia s. str.
+Utricularia minor s. str.
+Utricularia stygia
+Utricularia vulgaris s. str.
+Zannichellia palustris

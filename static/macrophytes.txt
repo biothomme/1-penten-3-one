@@ -1,16 +1,16 @@
 Alismataceae
+Callitriche
+Ceratophyllum
+Hippuris
 Hydrocharitaceae
-Nymphaeaceae
-Potamogetonaceae
 Lemnaceae
 Menyanthaceae
 Myriophyllum
-Ceratophyllum
-Callitriche
-Hippuris
-Ranunculus subgen. Batrachium
 Najas
+Nymphaeaceae
+Potamogetonaceae
+Ranunculus subgen. Batrachium
+Sparganium
+Typha
 Utricularia
 Zannichellia
-Typha
-Sparganium
